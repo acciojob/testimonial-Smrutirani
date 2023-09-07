@@ -12,7 +12,7 @@
 .text{
 	font-size:18px;
 }
-p>author{
+p.author{
 	text-align: right;
 	font-style: italic;
 }
